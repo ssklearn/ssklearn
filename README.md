@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sikwon
 #### I am a prospective AI developer
-##### Graduated from Sogang Business School
+Graduated from Sogang Business School
 
 Skills: Python / ML / DL / Tensorflow / SQL
 
